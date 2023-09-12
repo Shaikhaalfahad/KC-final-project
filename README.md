@@ -3,15 +3,15 @@
 > ⬇️ تعبئة معلومات المشروع بالعربية  
 
 <div dir="rtl">
-  
-### اسم الطالب
+
+### شيخة صلاح الفهد
 
 
-### اسم المشروع
+### título
 
 
 # شرح الفكرة
-المشكلة والحلول المطروحة إن وجدت
+مشروعي عبارة عن موقع يقيم الكتب ويقدم للقارئ كتب اخرا تليق بذوقه.
 
 
 # الأعمال المستقبلية
@@ -20,13 +20,13 @@
 </div>
 
 > Fill out project information in English ⬇️
-### Student Name
+### Shaikha Salah Al Fahad
 
 
-### Project Name
+### Título
 
 # Idea
-Problem and solutions if found 
+My website rates books that a reader might be intersted in and gives him/her a recommendation based on their taste of books.
 
 
 # Future Work 
